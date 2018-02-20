@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace RouletteGame.Test.Unit
 {
-    public class Class1
+    public class RouletteGameUnitTest
     {
     }
 }
